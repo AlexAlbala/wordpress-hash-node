@@ -113,9 +113,3 @@ function HashPassword(password){
 	var hash = crypt_private(password, salt);
 	return hash;
 }
-
-var mpass = '0ndh0-Mycook';
-var stored_hash ='$P$BEHe2D9ZAR6Lf0UeDYBjvWhOxI6EZU0';
-var mchecked = CheckPassword(mpass, stored_hash);
-console.log("Check password: " + mpass + " with hash: " + stored_hash);
-console.log(mchecked);
