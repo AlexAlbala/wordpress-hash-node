@@ -1,7 +1,25 @@
 {
-	"name": "wordpress-hash-node",
-	"description": "A phpass portable hashing function compatible with wordpress passwords",
-	"author": "Alex Albalà <alexalbala88@gmail.com>",
-	"dependencies": {
-	}
+  "name": "wordpress-hash-node",
+  "description": "A phpass portable hashing function compatible with wordpress passwords",
+  "author": "Alex Albalà <alexalbala88@gmail.com>",
+  "dependencies": {},
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexAlbala/wordpress-hash-node"
+  },
+  "keywords": [
+    "wordpress",
+    "phpass",
+    "hash"
+  ],
+  "license": "GLP",
+  "bugs": {
+    "url": "https://github.com/AlexAlbala/wordpress-hash-node/issues"
+  },
+  "homepage": "https://github.com/AlexAlbala/wordpress-hash-node"
 }

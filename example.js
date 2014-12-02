@@ -1,4 +1,4 @@
-var hasher = require('./hash.js');
+var hasher = require('./lib/hash.js');
 
 var password = 'testpass';
 var hash = hasher.HashPassword(password);
