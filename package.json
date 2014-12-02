@@ -3,7 +3,7 @@
   "description": "A phpass portable hashing function compatible with wordpress passwords",
   "author": "Alex Albalà <alexalbala88@gmail.com>",
   "dependencies": {},
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
