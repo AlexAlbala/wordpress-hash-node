@@ -1,9 +1,9 @@
 wordpress-hash-node
 ===================
 
-phpass library port for nodejs
+Wordpress hashes (phpass library portable hashes) port for nodejs
 
-supports php version 5 or greater
+Based on phpass for php 5 or greater
 
 install:
 
