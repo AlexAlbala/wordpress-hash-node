@@ -1,8 +1,7 @@
 {
-	"name": "naive",
-	"description": "A package using naive versioning",
-	"author": "A confused individual <iam@confused.com>",
+	"name": "wordpress-hash-node",
+	"description": "A phpass portable hashing function compatible with wordpress passwords",
+	"author": "Alex Albalà <alexalbala88@gmail.com>",
 	"dependencies": {
-		"phpass": "*"
 	}
 }
