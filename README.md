@@ -8,7 +8,7 @@ Based on phpass for php 5 or greater
 install:
 
 ```
-$ npm install wordrpress-hash-node
+$ npm install wordpress-hash-node
 ```
 
 usage:
